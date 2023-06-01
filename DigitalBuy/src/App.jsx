@@ -1,9 +1,10 @@
-import './App.css'
+import React from "react";
+import Footer from "./components/Footer";
 
-export function App () {
-    return (
-<div>
-    <h1>DigitalBuy</h1>
-</div>
-    )
+export function App() {
+  return (
+    <div>
+      <Footer />
+    </div>
+  );
 }
