@@ -11,7 +11,7 @@ export function NavBar() {
               <Link className="navbar-brand me-auto" to={"/"}>
                 <img
                   className="logo"
-                  src={"img/Logo DB.jpeg"}
+                  src={"/img/LogoDB.jpeg"}
                   alt="logo"
                   width={40}
                 />
@@ -30,6 +30,11 @@ export function NavBar() {
               </button>
               <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+                <li>
+                    <Link className="nav-link" to={"/"}>
+                      Inicio
+                    </Link>
+                  </li>
                   <li className="nav-item dropdown">
                     <a
                       className="nav-link dropdown-toggle"
@@ -81,11 +86,7 @@ export function NavBar() {
                       Contacto
                     </Link>
                   </li>
-                  <li>
-                    <Link className="nav-link" to={"/"}>
-                      Inicio
-                    </Link>
-                  </li>
+                  
                 </ul>
               </div>
             </div>
