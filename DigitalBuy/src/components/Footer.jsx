@@ -1,5 +1,5 @@
 import React from "react";
-const Footer = () => {
+export function Footer () {
   return (
     <div className="container-fluid barra">
       <div className="container py-5">
@@ -32,4 +32,3 @@ const Footer = () => {
   );
 };
 
-export default Footer;
