@@ -11,7 +11,7 @@ export function NavBar() {
               <Link className="navbar-brand me-auto" to={"/"}>
                 <img
                   className="logo"
-                  src={"img/LogoDB.jpeg"}
+                  src={"img/Logo DB.jpeg"}
                   alt="logo"
                   width={40}
                 />

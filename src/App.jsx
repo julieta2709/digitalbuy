@@ -1,12 +1,14 @@
 import React from "react";
-import Footer from "./components/Footer";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { NavBar } from "./components/NavBar";
+import {Footer} from "./components/Footer";
 
 export function App() {
   return (
-    <div>
+    <BrowserRouter>
       <NavBar />
+      <Routes></Routes>
       <Footer />
-    </div>
+    </BrowserRouter>
   );
 }
