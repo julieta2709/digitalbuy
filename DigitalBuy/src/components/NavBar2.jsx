@@ -1,5 +1,7 @@
 import React from "react";
 import "../Styles/NavBar2.css";
+import imagen1 from "../../assets/img/DB-grey.png";
+import imagen2 from "../../assets/img/DigitalBuy-grey.png"
 import { Link, NavLink } from "react-router-dom";
 
 export function NavBar2() {
@@ -9,12 +11,12 @@ export function NavBar2() {
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
             <img
-              src="/img/DB-grey.png"
-              alt="Logo"
+              src={imagen1}
+              alt="LogoDigitalBuy"
               width={40}
               className="d-inline-block align-text-top"
             />
-            <img src="/img/DigitalBuy-grey.png" alt="logo" width={200} />
+            <img src={imagen2} alt="DigitalBuy" width={200} />
           </Link>
           <button
             className="navbar-toggler"
