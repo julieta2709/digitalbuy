@@ -1,6 +1,8 @@
 import React from "react";
+import '../Styles/Footer.css'
 export function Footer () {
   return (
+    <footer>
     <div className="container-fluid barra">
       <div className="container py-5">
         <div className="row">
@@ -29,6 +31,7 @@ export function Footer () {
         </div>
       </div>
     </div>
+    </footer>
   );
 };
 
