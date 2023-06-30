@@ -7,7 +7,7 @@ import { CartWidget } from "./CartWidget";
 
 export function NavBar2() {
   return (
-    <div>
+    <div className="container py-5">
       <nav className="navbar fixed-top navbar-expand-lg">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">

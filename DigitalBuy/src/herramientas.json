@@ -1,255 +1,282 @@
-{
-  "categorias": [
-    {
-      "categoria": "Jardinería",
-      "herramientas": [
-        {
-          "nombre": "Moto Sierra GS-2500",
-          "marca": "Lüsqtoff",
-          "descripcion": "Moto Sierra naftera 25cc",
-          "imagen": "../assets/jardineria/Motosierra GS-2500.jpg"
-        },
-        {
-          "nombre": "Cortadora de pasto helicoidal",
-          "marca": "Truper",
-          "descripcion": "Sistema de rodillo y tracción en sus dos ruedas. 5 cuchillas de acero.",
-          "imagen": "../assets/jardineria/17680-1.png"
-        },
-        {
-          "nombre": "Herramientas para jardín",
-          "marca": "Truper",
-          "descripcion": "Juego de herramientas fabricadas en acero al carbono, incluye: 1 transplantador, 1 cuchara, 1 bieldo de 3 dientes, 1 cultivador.",
-          "imagen": "../assets/jardineria/15030-1.png"
-        },
-        {
-          "nombre": "Rastrillo 16 dientes",
-          "marca": "Truper",
-          "descripcion": "16 dientes, mango de madera de 54 pulgadas, cabeza soldada.",
-          "imagen": "../assets/jardineria/17882-1.png"
-        },
-        {
-          "nombre": "Juego de 5 conectores",
-          "marca": "Truper",
-          "descripcion": "Fabricados en ABS. Conexión macho (2), hembra, accesorio y canilla. Conexiones rápidas y automáticas.",
-          "imagen": "../assets/jardineria/12728-1.png"
-        },
-        {
-          "nombre": "Tijera para poda curva",
-          "marca": "Truper",
-          "descripcion": "Hoja de acero de gran resistencia y mangos de nylon. Hoja de paso profesional.",
-          "imagen": "../assets/jardineria/18463-1.png"
-        }
-      ]
-    },
-    {
-      "categoria": "Carpintería",
-      "herramientas": [
-        {
-          "nombre": "Minichancla de 1 pulgada",
-          "marca": "Truper",
-          "descripcion": "Espesor de cuchilla de 1.2 mm. Ancho de corte de 25 mm.Base lisa. Para trabajos de precisión.",
-          "imagen": "../assets/carpinteria/12022.png"
-        },
-        {
-          "nombre": "Juego de embutidores de clavos",
-          "marca": "Truper",
-          "descripcion": "Fabricados en acero al cromo vanadio. Mango ergonómico de caucho que evita vibraciones.",
-          "imagen": "../assets/carpinteria/18064.png"
-        },
-        {
-          "nombre": "Arco calador",
-          "marca": "Truper",
-          "descripcion": "Resistente estructura metálica. Mango ergonómico antiderrapante. Para cortar cualquier material.",
-          "imagen": "../assets/carpinteria/10221-1.png"
-        },
-        {
-          "nombre": "Taladro Berbiqui",
-          "marca": "Truper",
-          "descripcion": "Cuerpo fabricado en acero al bajo carbono. Barril y manivela fabricados en madera. Mecanismo tipo matraca que permite trabajar en lugares estrechos.",
-          "imagen": "../assets/carpinteria/10970.png"
-        },
-        {
-          "nombre": "Sierra Caladora",
-          "marca": "Lüsqtoff",
-          "descripcion": "Guía láser, sistema pendular, base de aluminio, ideal para múltiples trabajos.",
-          "imagen": "../assets/carpinteria/sierra.jpeg"
-        }
-      ]
-    },
-    
-    {
-      "categoria": "construcción",
-      "herramientas": [
-        {
-          "nombre": "Odómetro con freno",
-          "marca": "Truper",
-          "descripcion": "Cuerpo fabricado en ABS con rueda de poliuretano. Mango plegable y asa para su fácil almacenamiento y transporte. Freno y botón de reinicio en la parte superior del mango para mayor comodidad. Contador automático de 5 dígitos en metros y decímetros.",
-          "imagen": "../assets/construccion/15831-1.jpg"
-        },
-        {
-          "nombre": "Nivel Torpedo",
-          "marca": "Truper",
-          "descripcion": "Cuerpo fabricado en polipropileno de alto impacto. Gotas de acrílico de mayor resistencia a la abrasión y al impacto.",
-          "imagen": "../assets/construccion/22450-1.png"
-        },
-        {
-          "nombre": "Llana canto dentado",
-          "marca": "Truper",
-          "descripcion": "Hoja fabricada en acero. Canto dentado triangular. Mango de madera.",
-          "imagen": "../assets/construccion/15409-1.png"
-        },
-        {
-          "nombre": "Placa compactadora",
-          "marca": "Lüsqtoff",
-          "descripcion": "Trabajo sobre presión estacionaria. Compactas superficies mediante la eliminación de aire.",
-          "imagen": "../assets/construccion/HRZ-90-WEB.png"
-        }
-      ]
-    },
-    {
-      "categoria": "plomería",
-      "herramientas": [
-        {
-          "nombre": "Llave para plomero",
-          "marca": "Truper",
-          "descripcion": "Cuerpo fabricado en acero cromado resistente a la corrosión. Mordaza activada por resorte. Mordazas dentadas auto-ajustables.",
-          "imagen": "../assets/plomeria/12874-1.png"
-        },
-        {
-          "nombre": "Tijera corta tubo de PVC",
-          "marca": "Truper",
-          "descripcion": "Cuerpo fabricado en aluminio. Cuchilla fabricada en acero inoxidable. Sistema automático de apertura.",
-          "imagen": "../assets/plomeria/12860-1.png"
-        },
-        {
-          "nombre": "Canilla de zinc",
-          "marca": "Truper",
-          "descripcion": "Cuerpo metálico recubierto de níquel. Cierre de 1/4 de vuelta. Conector de salida para ensamblar manguera.",
-          "imagen": "../assets/plomeria/23146-1.png"
-        },
-        {
-          "nombre": "Bomba elevadora 25 M",
-          "marca": "Lüsqtoff",
-          "descripcion": "Bomba elevadora inteligente. Prezuriza / control de tiempo / control de fluido. Uso agua potable.",
-          "imagen": "../assets/plomeria/LQSMARTER25.png"
-        }
-      ]
-    },
-    {
-      "categoria": "electricidad",
-      "herramientas": [
-        {
-          "nombre": "Juego de herramientas para reparación de celulares",
-          "marca": "Truper",
-          "descripcion": "Puntas de acero al cromo vanadio. Porta puntas magnético. Mango de aluminio. Incluye estuche.",
-          "imagen": "../assets/electricidad/17762-1.png"
-        },
-        {
-          "nombre": "Pinza módulos intercambiables",
-          "marca": "Truper",
-          "descripcion": "Cuerpo fabricado en acero al carbono. Mangos recubiertos con TPR. Módulos intercambiables para instalar conectores RJ-09, RJ-11, RJ-12 y RJ-45.",
-          "imagen": "../assets/electricidad/18343-1.png"
-        },
-        {
-          "nombre": "Buscapolo",
-          "marca": "Truper",
-          "descripcion": "Ideal para circuitos de corriente alterna de 100-500 V. Punta de acero al cromo vanadio y mango acrílico transparente, aislado para mayor seguridad.",
-          "imagen": "../assets/electricidad/13988-1.png"
-        },
-        {
-          "nombre": "Soldadora inverter",
-          "marca": "Truper",
-          "descripcion": "Especial para electrodos de 1,6 mm en continuo.",
-          "imagen": "../assets/electricidad/IRON-100.jpg"
-        }
-      ]
-    },
-    {
-      "categoria": "hogar",
-      "herramientas": [
-        {
-          "nombre": "Sombrilla",
-          "marca": "Lüsqtoff",
-          "descripcion": "Ideal para jardines, patios y terrazas. Impermeable.",
-          "imagen": "../assets/hogar/LQ50-03BLC.png"
-        },
-        {
-          "nombre": "Silla plegable",
-          "marca": "Lüsqtoff",
-          "descripcion": "De fácil transporte.Con porta vasos y bolsillo lateral. Patas con base estabilizadora.",
-          "imagen": "../assets/hogar/SGL-8.jpg"
-        },
-        {
-          "nombre": "Barredora-Aspiradora",
-          "marca": "Lüsqtoff",
-          "descripcion": "Limpieza de pisos de madera, flotantes, baldosados y superficies lisas.",
-          "imagen": "../assets/hogar/LQSW-30.png"
-        },
-        {
-          "nombre": "Termo",
-          "marca": "Lüsqtoff",
-          "descripcion": "Manija y pico cebador. Mantiene el frío/calor 20 hs. Acero inoxidable. Capacidad 1 lts.",
-          "imagen": "../assets/hogar/TL1-9A.png"
-        },
-        {
-          "nombre": "Purificador de agua",
-          "marca": "Truper",
-          "descripcion": "Fabricado en polipropileno con filtro de carbón activado impregnado de plata coloidal. Válvula desviadora para obtener agua filtrada y común.",
-          "imagen": "../assets/hogar/49217-1.png"
-        }
-      ]
-    },
-    {
-      "categoria": "seguridad",
-      "herramientas": [
-        {
-          "nombre": "Protector facial",
-          "marca": "Truper",
-          "descripcion": "Cuerpo fabricado de polipropileno y mica elaborada de policarbonato. Cinta elástica ajustable. Máxima protección para el rostro con excelente visibilidad.",
-          "imagen": "../assets/seguridad/26007.png"
-        },
-        {
-          "nombre": "Anteojos de seguridad",
-          "marca": "Truper",
-          "descripcion": "Mica de policarbonato y armazón de PVC. Ventilación directa.",
-          "imagen": "../assets/seguridad/21538-1.png"
-        },
-        {
-          "nombre": "Máscara fotosensible para soldar",
-          "marca": "Lüsqtoff",
-          "descripcion": "Apto para procesos MMA/MIG-MAG/TIG. Control de retardo, sombra y sensibilidad.",
-          "imagen": "../assets/seguridad/ST-1B.jpg"
-        },
-        {
-          "nombre": "Gafas para soldar",
-          "marca": "Truper",
-          "descripcion": "Estructura de PVC. Lentes frontales abatibles para realizar inspecciones del trabajo. Lente protector frontal de policarbonato de sombra verde. Ventilación indirecta.",
-          "imagen": "../assets/seguridad/14282-1.png"
-        }
-      ]
-    },
-    {
-      "categoria": "taller",
-      "herramientas": [
-        {
-          "nombre": "Juego de herramientas - 8 piezas",
-          "marca": "Truper",
-          "descripcion": "Mangos confort grip. Incluye maletín.",
-          "imagen": "../assets/taller/21251.png"
-        },
-        {
-          "nombre": "Juego de tubos - 25 piezas",
-          "marca": "Truper",
-          "descripcion": "Tubos de acero al cromo vanadio, cuadro 1/2 mm para mecánico. Broches metálicos. Herramientas marcadas para fácil identificación.",
-          "imagen": "../assets/taller/15685.png"
-        },
-        {
-          "nombre": "Caja de herramientas plegable 64 piezas",
-          "marca": "Lüsqtoff",
-          "descripcion": "De aluminio, tracción manual, 5 compartimientos, peso 8 kg.",
-          "imagen": "../assets/taller/LQCP125.png"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "categoria": "Jardinería",
+    "nombre": "Moto Sierra GS-2500",
+    "marca": "Lüsqtoff",
+    "descripcion": "Moto Sierra naftera 25cc",
+    "imagen": "../assets/jardineria/Motosierra GS-2500.jpg"
+  },
+  {
+    "id": "2",
+    "categoria": "Jardinería",
+    "nombre": "Cortadora de pasto helicoidal",
+    "marca": "Truper",
+    "descripcion": "Sistema de rodillo y tracción en sus dos ruedas. 5 cuchillas de acero.",
+    "imagen": "../assets/jardineria/17680-1.png"
+  },
+  {
+    "id": "3",
+    "categoria": "Jardinería",
+    "nombre": "Herramientas para jardín",
+    "marca": "Truper",
+    "descripcion": "Juego de herramientas fabricadas en acero al carbono, incluye: 1 transplantador, 1 cuchara, 1 bieldo de 3 dientes, 1 cultivador.",
+    "imagen": "../assets/jardineria/15030-1.png"
+  },
+  {
+    "id": "4",
+    "categoria": "Jardinería",
+    "nombre": "Rastrillo 16 dientes",
+    "marca": "Truper",
+    "descripcion": "16 dientes, mango de madera de 54 pulgadas, cabeza soldada.",
+    "imagen": "../assets/jardineria/17882-1.png"
+  },
+  {
+    "id": "5",
+    "categoria": "Jardinería",
+    "nombre": "Juego de 5 conectores",
+    "marca": "Truper",
+    "descripcion": "Fabricados en ABS. Conexión macho (2), hembra, accesorio y canilla. Conexiones rápidas y automáticas.",
+    "imagen": "../assets/jardineria/12728-1.png"
+  },
+  {
+    "id": "6",
+    "categoria": "Jardinería",
+    "nombre": "Tijera para poda curva",
+    "marca": "Truper",
+    "descripcion": "Hoja de acero de gran resistencia y mangos de nylon. Hoja de paso profesional.",
+    "imagen": "../assets/jardineria/18463-1.png"
+  },
+  {
+    "id": "7",
+    "categoria": "Carpintería",
+    "nombre": "Minichancla de 1 pulgada",
+    "marca": "Truper",
+    "descripcion": "Espesor de cuchilla de 1.2 mm. Ancho de corte de 25 mm.Base lisa. Para trabajos de precisión.",
+    "imagen": "../assets/carpinteria/12022.png"
+  },
+  {
+    "id": "8",
+    "categoria": "Carpintería",
+    "nombre": "Juego de embutidores de clavos",
+    "marca": "Truper",
+    "descripcion": "Fabricados en acero al cromo vanadio. Mango ergonómico de caucho que evita vibraciones.",
+    "imagen": "../assets/carpinteria/18064.png"
+  },
+  {
+    "id": "9",
+    "categoria": "Carpintería",
+    "nombre": "Arco calador",
+    "marca": "Truper",
+    "descripcion": "Resistente estructura metálica. Mango ergonómico antiderrapante. Para cortar cualquier material.",
+    "imagen": "../assets/carpinteria/10221-1.png"
+  },
+  {
+    "id": "10",
+    "categoria": "Carpintería",
+    "nombre": "Taladro Berbiqui",
+    "marca": "Truper",
+    "descripcion": "Cuerpo fabricado en acero al bajo carbono. Barril y manivela fabricados en madera. Mecanismo tipo matraca que permite trabajar en lugares estrechos.",
+    "imagen": "../assets/carpinteria/10970.png"
+  },
+  {
+    "id": "11",
+    "categoria": "Carpintería",
+    "nombre": "Sierra Caladora",
+    "marca": "Lüsqtoff",
+    "descripcion": "Guía láser, sistema pendular, base de aluminio, ideal para múltiples trabajos.",
+    "imagen": "../assets/carpinteria/sierra.jpeg"
+  },
+  {
+    "id": "12",
+    "categoria": "construcción",
+    "nombre": "Odómetro con freno",
+    "marca": "Truper",
+    "descripcion": "Cuerpo fabricado en ABS con rueda de poliuretano. Mango plegable y asa para su fácil almacenamiento y transporte. Freno y botón de reinicio en la parte superior del mango para mayor comodidad. Contador automático de 5 dígitos en metros y decímetros.",
+    "imagen": "../assets/construccion/15831-1.jpg"
+  },
+  {
+    "id": "13",
+    "categoria": "construcción",
+    "nombre": "Nivel Torpedo",
+    "marca": "Truper",
+    "descripcion": "Cuerpo fabricado en polipropileno de alto impacto. Gotas de acrílico de mayor resistencia a la abrasión y al impacto.",
+    "imagen": "../assets/construccion/22450-1.png"
+  },
+  {
+    "id": "14",
+    "categoria": "construcción",
+    "nombre": "Llana canto dentado",
+    "marca": "Truper",
+    "descripcion": "Hoja fabricada en acero. Canto dentado triangular. Mango de madera.",
+    "imagen": "../assets/construccion/15409-1.png"
+  },
+  {
+    "id": "15",
+    "categoria": "construcción",
+    "nombre": "Placa compactadora",
+    "marca": "Lüsqtoff",
+    "descripcion": "Trabajo sobre presión estacionaria. Compactas superficies mediante la eliminación de aire.",
+    "imagen": "../assets/construccion/HRZ-90-WEB.png"
+  },
+  {
+    "id": "16",
+    "categoria": "plomería",
+    "nombre": "Llave para plomero",
+    "marca": "Truper",
+    "descripcion": "Cuerpo fabricado en acero cromado resistente a la corrosión. Mordaza activada por resorte. Mordazas dentadas auto-ajustables.",
+    "imagen": "../assets/plomeria/12874-1.png"
+  },
+  {
+    "id": "16",
+    "categoria": "plomería",
+    "nombre": "Tijera corta tubo de PVC",
+    "marca": "Truper",
+    "descripcion": "Cuerpo fabricado en aluminio. Cuchilla fabricada en acero inoxidable. Sistema automático de apertura.",
+    "imagen": "../assets/plomeria/12860-1.png"
+  },
+  {
+    "id": "17",
+    "categoria": "plomería",
+    "nombre": "Canilla de zinc",
+    "marca": "Truper",
+    "descripcion": "Cuerpo metálico recubierto de níquel. Cierre de 1/4 de vuelta. Conector de salida para ensamblar manguera.",
+    "imagen": "../assets/plomeria/23146-1.png"
+  },
+  {
+    "id": "18",
+    "categoria": "plomería",
+    "nombre": "Bomba elevadora 25 M",
+    "marca": "Lüsqtoff",
+    "descripcion": "Bomba elevadora inteligente. Prezuriza / control de tiempo / control de fluido. Uso agua potable.",
+    "imagen": "../assets/plomeria/LQSMARTER25.png"
+  },
+  {
+    "id": "19",
+    "categoria": "electricidad",
+    "nombre": "Juego de herramientas para reparación de celulares",
+    "marca": "Truper",
+    "descripcion": "Puntas de acero al cromo vanadio. Porta puntas magnético. Mango de aluminio. Incluye estuche.",
+    "imagen": "../assets/electricidad/17762-1.png"
+  },
+  {
+    "id": "20",
+    "categoria": "electricidad",
+    "nombre": "Pinza módulos intercambiables",
+    "marca": "Truper",
+    "descripcion": "Cuerpo fabricado en acero al carbono. Mangos recubiertos con TPR. Módulos intercambiables para instalar conectores RJ-09, RJ-11, RJ-12 y RJ-45.",
+    "imagen": "../assets/electricidad/18343-1.png"
+  },
+  {
+    "id": "21",
+    "categoria": "electricidad",
+    "nombre": "Buscapolo",
+    "marca": "Truper",
+    "descripcion": "Ideal para circuitos de corriente alterna de 100-500 V. Punta de acero al cromo vanadio y mango acrílico transparente, aislado para mayor seguridad.",
+    "imagen": "../assets/electricidad/13988-1.png"
+  },
+  {
+    "id": "22",
+    "categoria": "electricidad",
+    "nombre": "Soldadora inverter",
+    "marca": "Truper",
+    "descripcion": "Especial para electrodos de 1,6 mm en continuo.",
+    "imagen": "../assets/electricidad/IRON-100.jpg"
+  },
+  {
+    "id": "23",
+    "categoria": "hogar",
+    "nombre": "Sombrilla",
+    "marca": "Lüsqtoff",
+    "descripcion": "Ideal para jardines, patios y terrazas. Impermeable.",
+    "imagen": "../assets/hogar/LQ50-03BLC.png"
+  },
+  {
+    "id": "24",
+    "categoria": "hogar",
+    "nombre": "Silla plegable",
+    "marca": "Lüsqtoff",
+    "descripcion": "De fácil transporte.Con porta vasos y bolsillo lateral. Patas con base estabilizadora.",
+    "imagen": "../assets/hogar/SGL-8.jpg"
+  },
+  {
+    "id": "25",
+    "categoria": "hogar",
+    "nombre": "Barredora-Aspiradora",
+    "marca": "Lüsqtoff",
+    "descripcion": "Limpieza de pisos de madera, flotantes, baldosados y superficies lisas.",
+    "imagen": "../assets/hogar/LQSW-30.png"
+  },
+  {
+    "id": "26",
+    "categoria": "hogar",
+    "nombre": "Termo",
+    "marca": "Lüsqtoff",
+    "descripcion": "Manija y pico cebador. Mantiene el frío/calor 20 hs. Acero inoxidable. Capacidad 1 lts.",
+    "imagen": "../assets/hogar/TL1-9A.png"
+  },
+  {
+    "id": "27",
+    "categoria": "hogar",
+    "nombre": "Purificador de agua",
+    "marca": "Truper",
+    "descripcion": "Fabricado en polipropileno con filtro de carbón activado impregnado de plata coloidal. Válvula desviadora para obtener agua filtrada y común.",
+    "imagen": "../assets/hogar/49217-1.png"
+  },
+  {
+    "id": "28",
+    "categoria": "seguridad",
+    "nombre": "Protector facial",
+    "marca": "Truper",
+    "descripcion": "Cuerpo fabricado de polipropileno y mica elaborada de policarbonato. Cinta elástica ajustable. Máxima protección para el rostro con excelente visibilidad.",
+    "imagen": "../assets/seguridad/26007.png"
+  },
+  {
+    "id": "29",
+    "categoria": "seguridad",
+    "nombre": "Anteojos de seguridad",
+    "marca": "Truper",
+    "descripcion": "Mica de policarbonato y armazón de PVC. Ventilación directa.",
+    "imagen": "../assets/seguridad/21538-1.png"
+  },
+  {
+    "id": "30",
+    "categoria": "seguridad",
+    "nombre": "Máscara fotosensible para soldar",
+    "marca": "Lüsqtoff",
+    "descripcion": "Apto para procesos MMA/MIG-MAG/TIG. Control de retardo, sombra y sensibilidad.",
+    "imagen": "../assets/seguridad/ST-1B.jpg"
+  },
+  {
+    "id": "31",
+    "categoria": "seguridad",
+    "nombre": "Gafas para soldar",
+    "marca": "Truper",
+    "descripcion": "Estructura de PVC. Lentes frontales abatibles para realizar inspecciones del trabajo. Lente protector frontal de policarbonato de sombra verde. Ventilación indirecta.",
+    "imagen": "../assets/seguridad/14282-1.png"
+  },
+  {
+    "id": "32",
+    "categoria": "taller",
+    "nombre": "Juego de herramientas - 8 piezas",
+    "marca": "Truper",
+    "descripcion": "Mangos confort grip. Incluye maletín.",
+    "imagen": "../assets/taller/21251.png"
+  },
+  {
+    "id": "33",
+    "categoria": "taller",
+    "nombre": "Juego de tubos - 25 piezas",
+    "marca": "Truper",
+    "descripcion": "Tubos de acero al cromo vanadio, cuadro 1/2 mm para mecánico. Broches metálicos. Herramientas marcadas para fácil identificación.",
+    "imagen": "../assets/taller/15685.png"
+  },
+  {
+    "id": "34",
+    "categoria": "taller",
+    "nombre": "Caja de herramientas plegable 64 piezas",
+    "marca": "Lüsqtoff",
+    "descripcion": "De aluminio, tracción manual, 5 compartimientos, peso 8 kg.",
+    "imagen": "../assets/taller/LQCP125.png"
+  }
+]
