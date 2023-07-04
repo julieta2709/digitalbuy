@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import { ItemCount } from "./ItemCount";
-import herramientas from "..herramientas.json/";
-import { useEffect, useState } from "react";
+import ItemCount from "./ItemCount";
+import herramientas from "../herramientas.json";
+
 
 const ItemListContainer = () => {
   const [items, setItems] = useState([]);
