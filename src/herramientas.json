@@ -117,7 +117,7 @@
     "nombre": "Placa compactadora",
     "marca": "Lüsqtoff",
     "descripcion": "Trabajo sobre presión estacionaria. Compactas superficies mediante la eliminación de aire.",
-    "imagen": "../assets/construccion/HRZ-90-WEB.png"
+    "imagen": "../assets/construccion/HRZ-90_WEB.png"
   },
   {
     "id": "16",
@@ -128,7 +128,7 @@
     "imagen": "../assets/plomeria/12874-1.png"
   },
   {
-    "id": "16",
+    "id": "17",
     "categoria": "plomería",
     "nombre": "Tijera corta tubo de PVC",
     "marca": "Truper",
@@ -136,7 +136,7 @@
     "imagen": "../assets/plomeria/12860-1.png"
   },
   {
-    "id": "17",
+    "id": "18",
     "categoria": "plomería",
     "nombre": "Canilla de zinc",
     "marca": "Truper",
@@ -144,15 +144,15 @@
     "imagen": "../assets/plomeria/23146-1.png"
   },
   {
-    "id": "18",
+    "id": "19",
     "categoria": "plomería",
     "nombre": "Bomba elevadora 25 M",
     "marca": "Lüsqtoff",
     "descripcion": "Bomba elevadora inteligente. Prezuriza / control de tiempo / control de fluido. Uso agua potable.",
-    "imagen": "../assets/plomeria/LQSMARTER25.png"
+    "imagen": "../assets/plomeria/LQSMARTER25.jpg"
   },
   {
-    "id": "19",
+    "id": "20",
     "categoria": "electricidad",
     "nombre": "Juego de herramientas para reparación de celulares",
     "marca": "Truper",
@@ -160,7 +160,7 @@
     "imagen": "../assets/electricidad/17762-1.png"
   },
   {
-    "id": "20",
+    "id": "21",
     "categoria": "electricidad",
     "nombre": "Pinza módulos intercambiables",
     "marca": "Truper",
@@ -168,7 +168,7 @@
     "imagen": "../assets/electricidad/18343-1.png"
   },
   {
-    "id": "21",
+    "id": "22",
     "categoria": "electricidad",
     "nombre": "Buscapolo",
     "marca": "Truper",
@@ -176,7 +176,7 @@
     "imagen": "../assets/electricidad/13988-1.png"
   },
   {
-    "id": "22",
+    "id": "23",
     "categoria": "electricidad",
     "nombre": "Soldadora inverter",
     "marca": "Truper",
@@ -184,7 +184,7 @@
     "imagen": "../assets/electricidad/IRON-100.jpg"
   },
   {
-    "id": "23",
+    "id": "24",
     "categoria": "hogar",
     "nombre": "Sombrilla",
     "marca": "Lüsqtoff",
@@ -192,7 +192,7 @@
     "imagen": "../assets/hogar/LQ50-03BLC.png"
   },
   {
-    "id": "24",
+    "id": "25",
     "categoria": "hogar",
     "nombre": "Silla plegable",
     "marca": "Lüsqtoff",
@@ -200,7 +200,7 @@
     "imagen": "../assets/hogar/SGL-8.jpg"
   },
   {
-    "id": "25",
+    "id": "26",
     "categoria": "hogar",
     "nombre": "Barredora-Aspiradora",
     "marca": "Lüsqtoff",
@@ -208,7 +208,7 @@
     "imagen": "../assets/hogar/LQSW-30.png"
   },
   {
-    "id": "26",
+    "id": "27",
     "categoria": "hogar",
     "nombre": "Termo",
     "marca": "Lüsqtoff",
@@ -216,7 +216,7 @@
     "imagen": "../assets/hogar/TL1-9A.png"
   },
   {
-    "id": "27",
+    "id": "28",
     "categoria": "hogar",
     "nombre": "Purificador de agua",
     "marca": "Truper",
@@ -224,15 +224,15 @@
     "imagen": "../assets/hogar/49217-1.png"
   },
   {
-    "id": "28",
+    "id": "29",
     "categoria": "seguridad",
     "nombre": "Protector facial",
     "marca": "Truper",
     "descripcion": "Cuerpo fabricado de polipropileno y mica elaborada de policarbonato. Cinta elástica ajustable. Máxima protección para el rostro con excelente visibilidad.",
-    "imagen": "../assets/seguridad/26007.png"
+    "imagen": "../assets/seguridad/26007-1.png"
   },
   {
-    "id": "29",
+    "id": "30",
     "categoria": "seguridad",
     "nombre": "Anteojos de seguridad",
     "marca": "Truper",
@@ -240,7 +240,7 @@
     "imagen": "../assets/seguridad/21538-1.png"
   },
   {
-    "id": "30",
+    "id": "31",
     "categoria": "seguridad",
     "nombre": "Máscara fotosensible para soldar",
     "marca": "Lüsqtoff",
@@ -248,7 +248,7 @@
     "imagen": "../assets/seguridad/ST-1B.jpg"
   },
   {
-    "id": "31",
+    "id": "32",
     "categoria": "seguridad",
     "nombre": "Gafas para soldar",
     "marca": "Truper",
@@ -256,7 +256,7 @@
     "imagen": "../assets/seguridad/14282-1.png"
   },
   {
-    "id": "32",
+    "id": "33",
     "categoria": "taller",
     "nombre": "Juego de herramientas - 8 piezas",
     "marca": "Truper",
@@ -264,7 +264,7 @@
     "imagen": "../assets/taller/21251.png"
   },
   {
-    "id": "33",
+    "id": "34",
     "categoria": "taller",
     "nombre": "Juego de tubos - 25 piezas",
     "marca": "Truper",
@@ -272,11 +272,11 @@
     "imagen": "../assets/taller/15685.png"
   },
   {
-    "id": "34",
+    "id": "35",
     "categoria": "taller",
     "nombre": "Caja de herramientas plegable 64 piezas",
     "marca": "Lüsqtoff",
     "descripcion": "De aluminio, tracción manual, 5 compartimientos, peso 8 kg.",
-    "imagen": "../assets/taller/LQCP125.png"
+    "imagen": "../assets/taller/LQCP125.jpg"
   }
 ]
